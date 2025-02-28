@@ -17,6 +17,7 @@ If you want something more finished, check out [quarto-nvim-kickstarter](https:/
 1. Molten (jupyter notebook emulator) command keymaps dont work
 2. Kernels not automatically loaded. You have to activate a kernel in your shell before using something like `conda activate <env-name>` or `source <venv-prefix>/bin/activate` before entering editor using `nvim` to use python notebook related features from plugins like Molten or Quarto
 3. LaTeX treesitter parsing doesnt work (Tho that could be an issue with my treesitter/treesitter-cli installation too)
+4. Add more detailed specificatons and options enabled in each plugin used.
 
 I will be getting to these in the coming weeks, check back here if you end up using this and 
 1. Let me know if you figure these out and I havent updated the repo (through issues, maybe?), OR
